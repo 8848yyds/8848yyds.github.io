@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 我又建了个小网站
 
-You can use the [editor on GitHub](https://github.com/8848yyds/8848yyds.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+为什么是又？[因为我之前建了个网站](https://fakedows.rth1.me)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
